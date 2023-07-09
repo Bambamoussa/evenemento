@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "3627353309",
+    "project_id": "divertissement-9c481",
+    "storage_bucket": "divertissement-9c481.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:3627353309:android:18b486ff51fe432ed30734",
+        "android_client_info": {
+          "package_name": "com.example.evenemento"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "3627353309-65sh6vmteh9gj1msk3n493frilcj84uv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.evenemento",
+            "certificate_hash": "404fd50b1e465153d7406c4fc14d3736ecce2156"
+          }
+        },
+        {
+          "client_id": "3627353309-vv9e1drkffp50heavjt04tmnr67hsauq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBt9lZvuX-e26AZwgPRgf8XhLI5k_Bz9DQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "3627353309-vv9e1drkffp50heavjt04tmnr67hsauq.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
